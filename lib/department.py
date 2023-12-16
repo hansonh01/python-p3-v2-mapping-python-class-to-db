@@ -64,3 +64,4 @@ class Department:
 
         CURSOR.execute(sql, (self.id,))
         CONN.commit()
+# test test
